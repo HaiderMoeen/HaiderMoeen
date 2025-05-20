@@ -8,7 +8,7 @@ I am a passionate final-year Computer Science student at LUMS (Lahore University
 
 ---
 
-## 💻 Languages and Tools
+## 💻 Languages, Tools and Libraries
 
 ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)

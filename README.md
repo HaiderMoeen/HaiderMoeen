@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate final-year Computer Science student at LUMS, experienced in full-stack development, UI/UX design, and problem solving. I enjoy building impactful projects and continuously learning new technologies.
+I am a passionate final-year Computer Science student at LUMS (Lahore University of Management Sciences), experienced in full-stack development, UI/UX design, and problem solving. I enjoy building impactful projects and continuously learning new technologies.
 
 ---
 
